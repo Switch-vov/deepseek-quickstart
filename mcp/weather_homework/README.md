@@ -24,14 +24,18 @@ touch weather.py
 
 ## 实现 MCP 服务器
 
-代码文件：[weather.py](./weather.py)
+代码文件：[weather.py](https://github.com/Switch-vov/deepseek-quickstart/blob/main/mcp/weather_homework/weather.py)
 
 ## 相关截图
 
 ### 配置 MCP 服务器
-![mcp server](./img/image_00.png)
+![mcp server](https://github.com/Switch-vov/deepseek-quickstart/blob/main/mcp/weather_homework/img/image_00.png?raw=true)
 
 ### 配置 cline
+![01](https://github.com/Switch-vov/deepseek-quickstart/blob/main/mcp/weather_homework/img/image_01.png?raw=true)
+![02](https://github.com/Switch-vov/deepseek-quickstart/blob/main/mcp/weather_homework/img/image_02.png?raw=true)
+![03](https://github.com/Switch-vov/deepseek-quickstart/blob/main/mcp/weather_homework/img/image_03.png?raw=true)
 
+### 发送请求
 
-### 
+![request](https://github.com/Switch-vov/deepseek-quickstart/blob/main/mcp/weather_homework/img/image_04.png?raw=true)

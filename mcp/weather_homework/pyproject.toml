@@ -1,0 +1,10 @@
+[project]
+name = "weather-homework"
+version = "0.1.0"
+description = "a software for query weather of America"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.12.3",
+]
