@@ -4,7 +4,7 @@
 
 ### 配置 cline
 
-![01](https://github.com/Switch-vov/deepseek-quickstart/blob/main/mcp/homework_12_02/img/image_01.png?raw=true)
+```![01](https://github.com/Switch-vov/deepseek-quickstart/blob/main/mcp/homework_12_02/img/image_01.png?raw=true)```
 
 ### 发送请求
 
